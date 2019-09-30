@@ -1,7 +1,7 @@
 # R-DataCamp-Exploring-the-Kaggle-Data-Science-Survey
 Exploring the Kaggle Data Science Survey
 
-we have 5 files at this repository:
+we have 6 files at this repository:
 1) 'instructions' file that DataCamp gave mo to make that project
 2) 'kagglesurvey.csv' data to be manipulated to find answers 
 3) 'notebook-R.r' R source code of the project
